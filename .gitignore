@@ -54,7 +54,6 @@ yarn-error.log
 
 # Bundle artifact
 *.jsbundle
-*.config.*
 *.bundle/
 /Gemfile
 Gemfile.*
