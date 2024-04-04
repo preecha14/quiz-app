@@ -55,13 +55,12 @@ yarn-error.log
 # Bundle artifact
 *.jsbundle
 *.bundle/
-/Gemfile
-Gemfile.*
+
 
 # Ruby / CocoaPods
-/ios/
 /vendor/bundle/
 /android/
+/iOS/pods/
 
 # Temporary files created by Metro to check the health of the file watcher
 .metro-health-check*
